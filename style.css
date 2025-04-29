@@ -2,7 +2,7 @@ body{
     font-family: "Poppins", sans-serif;
     padding: 0;
     margin: 0;
-    background-color: white;
+    
 }
 img{
     width: 100%;
@@ -54,10 +54,22 @@ button{
     
     
 }
+a{
+    text-decoration: none;
+    background-color: white;
+    white-space-collapse: 5px;
+}
+#navbar{
+    text-align: right;
+}
 
 
 
 
 
 
-
+#footer{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
