@@ -49,10 +49,14 @@ button{
     border-style: none;
     border-style: solid;
     cursor: pointer;
-    border-color: red;
+    border: none;
     border-radius: 5px;
     
     
+}
+button:hover{
+    background-color: black;
+    color: red;
 }
 a{
     text-decoration: none;
@@ -60,7 +64,12 @@ a{
     white-space-collapse: 5px;
 }
 #navbar{
-    text-align: right;
+    text-align: center;
+    text-decoration: none;
+    
+    
+
+
 }
 
 
