@@ -82,3 +82,13 @@ a{
     color: black;
     text-align: center;
 }
+#logo{
+    width: 45px;
+    height:35px
+}
+#setlogo{
+    background: white;
+    width: 50px;
+    margin-top: 10px;
+    height:40px;
+}
